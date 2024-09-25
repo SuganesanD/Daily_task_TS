@@ -2,7 +2,7 @@
 // the value can be changed only in two places inside the class and constructor
 
 class Employee_details{
-    readonly _name:string //readonly is used in the _name
+    readonly _name:string ="divya"//readonly is used in the _name
     _id:number
 
 

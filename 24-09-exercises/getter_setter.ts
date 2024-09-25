@@ -8,7 +8,7 @@ class student{
 get get_name(){
     return this.name
 }
-set set_name(final_name:string){
+set set_name(final_name:string,_){
     this.name=final_name
 }
 }
