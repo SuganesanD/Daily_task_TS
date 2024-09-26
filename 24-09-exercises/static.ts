@@ -29,7 +29,7 @@ class Patient_Details{
     display_name(){
         console.log(this.name);
     }
-    display_age(){
+    static display_age(){
         console.log(Patient_Details.age);//the age can be accessed by the class name rather than the this keyword
         
     }
