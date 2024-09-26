@@ -15,7 +15,7 @@ get _name_retrieve(){
 
 const student_details=new Student_details
 console.log(student_details._name_retrieve);// the _name is declared as public so it can be used anywhere in the code
-console.log(student_details._age);//Property '_age' is private and only accessible within class 'Student_details'
+ console.log(student_details._age);//Property '_age' is private and only accessible within class 'Student_details'
 
 
 //Thus the private keyword is used when the property or method should only used inside the class.
