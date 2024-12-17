@@ -5,7 +5,8 @@
 //abstract keyword?
 //super()?
 //this keyword
-//new class and change getcost()
+//iphonefunc()
+//create new class and change getcost()
 var __extends = (this && this.__extends) || (function () {
     var extendStatics = function (d, b) {
         extendStatics = Object.setPrototypeOf ||
@@ -48,7 +49,7 @@ var Iphone = /** @class */ (function (_super) {
         console.log(this._cameraMP);
     };
     Iphone.prototype.iphonefunc = function () {
-        console.log("aiyooo 😲 high price");
+        console.log("aiyooo 😲  high price");
     };
     return Iphone;
 }(Phone));
